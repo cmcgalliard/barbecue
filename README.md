@@ -6,6 +6,7 @@ feel free to open an issue with comments / suggestions.
 
 ## Cooks
 ***
+### [July 03 2020](cooks/2020.07.03.md)
 ### [June 07 2020](cooks/2020.06.07.md)
 ### [May 31 2020](cooks/2020.05.31.md)
 ### [May 22 2020](cooks/2020.05.22.md)
